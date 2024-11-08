@@ -1,7 +1,5 @@
 ## The Significance of Union and Intersection types in Typescript
 
----
-
 TypeScript is a super useful tool that builds on JavaScript by adding **types** to your code. This helps prevent errors and makes your code easier to read. Today, we will learn about **Union Types** and **Intersection Types** in TypeScript, which help you deal with different kinds of data in flexible and safe ways.
 
 ### What Are Union Types?
